@@ -1,5 +1,5 @@
 <img src="https://github.com/phuocnov/phuocnov/blob/main/header.png?raw=true"></img>
-### <div align="center">I'm Asher, aiming to be a game-developer👨‍💻 final year student 🚀</div>  
+### <div align="center">I'm Asher, a software developer</div>  
   
 
 - 🔭 I’ve been worked over 2 years as a Software Developer at Consortia Group LLC, Cozwork and PATITEK  
