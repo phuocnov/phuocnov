@@ -2,23 +2,23 @@
 ### <div align="center">I'm Asher, aiming to be a game-developer👨‍💻 final year student 🚀</div>  
   
 
-- 🔭 I’ve been worked 1 year as a React-native developer at [PATITEK](https://github.com/PATITEK)  
+- 🔭 I’ve been worked over 2 years as a Software Developer at Consortia Group LLC, Cozwork and PATITEK  
   
 
-- 🌱 I’m currently learning Unreal engine and OpenGL C++  
+- 🌱 I’m currently looking for a new job!!
   
 
-- 🤙 Contact me for Interm / Fresher jobs  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🤙 Contact me for Software Developer Jobs
   
 
 <br/>  
 
 
 ## My Skill Set  
-Updating!!!
+ Languages: Javascript, Typescript, C#, Bash.
+ Web Framework: Angular, ReactJS.
+ Database: Microsoft SQL, PosgreSQL, MongoDB.
+ Tools: MSSQL Database Management System, Git, Jira.
 
 
 ## Connect with me  
