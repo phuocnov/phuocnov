@@ -15,10 +15,10 @@
 
 
 ## My Skill Set  
- Languages: Javascript, Typescript, C#, Bash.
- Web Framework: Angular, ReactJS.
- Database: Microsoft SQL, PosgreSQL, MongoDB.
- Tools: MSSQL Database Management System, Git, Jira.
+ <h6>Languages</h6>: Javascript, Typescript, C#, Bash. <br/>
+ <h6>Web Framework</h6>: Angular, ReactJS.<br/>
+ <h6>Database</h6>: Microsoft SQL, PosgreSQL, MongoDB.<br/>
+ <h6>Tools</h6>: MSSQL Database Management System, Git, Jira.<br/>
 
 
 ## Connect with me  
